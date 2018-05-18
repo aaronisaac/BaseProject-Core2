@@ -1,0 +1,11 @@
+D:\Dev Projects\BaseProject\BaseProject.Data\bin\Debug\netcoreapp2.1\BaseProject.Data.deps.json
+D:\Dev Projects\BaseProject\BaseProject.Data\bin\Debug\netcoreapp2.1\BaseProject.Data.runtimeconfig.json
+D:\Dev Projects\BaseProject\BaseProject.Data\bin\Debug\netcoreapp2.1\BaseProject.Data.runtimeconfig.dev.json
+D:\Dev Projects\BaseProject\BaseProject.Data\bin\Debug\netcoreapp2.1\BaseProject.Data.dll
+D:\Dev Projects\BaseProject\BaseProject.Data\obj\Debug\netcoreapp2.1\BaseProject.Data.csproj.CoreCompileInputs.cache
+D:\Dev Projects\BaseProject\BaseProject.Data\obj\Debug\netcoreapp2.1\BaseProject.Data.AssemblyInfoInputs.cache
+D:\Dev Projects\BaseProject\BaseProject.Data\obj\Debug\netcoreapp2.1\BaseProject.Data.AssemblyInfo.cs
+D:\Dev Projects\BaseProject\BaseProject.Data\bin\Debug\netcoreapp2.1\BaseProject.Data.pdb
+D:\Dev Projects\BaseProject\BaseProject.Data\obj\Debug\netcoreapp2.1\BaseProject.Data.dll
+D:\Dev Projects\BaseProject\BaseProject.Data\obj\Debug\netcoreapp2.1\BaseProject.Data.pdb
+D:\Dev Projects\BaseProject\BaseProject.Data\obj\Debug\netcoreapp2.1\BaseProject.Data.csprojAssemblyReference.cache

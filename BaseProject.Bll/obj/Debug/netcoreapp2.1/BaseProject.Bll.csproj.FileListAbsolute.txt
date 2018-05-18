@@ -1,0 +1,12 @@
+D:\Dev Projects\BaseProject\BaseProject.Bll\bin\Debug\netcoreapp2.1\BaseProject.Bll.deps.json
+D:\Dev Projects\BaseProject\BaseProject.Bll\bin\Debug\netcoreapp2.1\BaseProject.Bll.dll
+D:\Dev Projects\BaseProject\BaseProject.Bll\bin\Debug\netcoreapp2.1\BaseProject.Bll.pdb
+D:\Dev Projects\BaseProject\BaseProject.Bll\bin\Debug\netcoreapp2.1\BaseProject.Data.dll
+D:\Dev Projects\BaseProject\BaseProject.Bll\bin\Debug\netcoreapp2.1\BaseProject.Data.pdb
+D:\Dev Projects\BaseProject\BaseProject.Bll\obj\Debug\netcoreapp2.1\BaseProject.Bll.csprojAssemblyReference.cache
+D:\Dev Projects\BaseProject\BaseProject.Bll\obj\Debug\netcoreapp2.1\BaseProject.Bll.csproj.CoreCompileInputs.cache
+D:\Dev Projects\BaseProject\BaseProject.Bll\obj\Debug\netcoreapp2.1\BaseProject.Bll.AssemblyInfoInputs.cache
+D:\Dev Projects\BaseProject\BaseProject.Bll\obj\Debug\netcoreapp2.1\BaseProject.Bll.AssemblyInfo.cs
+D:\Dev Projects\BaseProject\BaseProject.Bll\obj\Debug\netcoreapp2.1\BaseProject.Bll.csproj.CopyComplete
+D:\Dev Projects\BaseProject\BaseProject.Bll\obj\Debug\netcoreapp2.1\BaseProject.Bll.dll
+D:\Dev Projects\BaseProject\BaseProject.Bll\obj\Debug\netcoreapp2.1\BaseProject.Bll.pdb

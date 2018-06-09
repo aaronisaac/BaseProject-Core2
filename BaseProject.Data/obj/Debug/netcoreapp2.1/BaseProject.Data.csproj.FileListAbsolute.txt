@@ -8,4 +8,3 @@ D:\Dev Projects\BaseProject\BaseProject.Data\obj\Debug\netcoreapp2.1\BaseProject
 D:\Dev Projects\BaseProject\BaseProject.Data\bin\Debug\netcoreapp2.1\BaseProject.Data.pdb
 D:\Dev Projects\BaseProject\BaseProject.Data\obj\Debug\netcoreapp2.1\BaseProject.Data.dll
 D:\Dev Projects\BaseProject\BaseProject.Data\obj\Debug\netcoreapp2.1\BaseProject.Data.pdb
-D:\Dev Projects\BaseProject\BaseProject.Data\obj\Debug\netcoreapp2.1\BaseProject.Data.csprojAssemblyReference.cache

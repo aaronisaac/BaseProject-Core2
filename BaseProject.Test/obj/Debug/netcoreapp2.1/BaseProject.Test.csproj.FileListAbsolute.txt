@@ -1,0 +1,11 @@
+D:\Dev Projects\BaseProject\BaseProject.Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Dev Projects\BaseProject\BaseProject.Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Dev Projects\BaseProject\BaseProject.Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Dev Projects\BaseProject\BaseProject.Test\bin\Debug\netcoreapp2.1\BaseProject.Test.deps.json
+D:\Dev Projects\BaseProject\BaseProject.Test\bin\Debug\netcoreapp2.1\BaseProject.Test.runtimeconfig.json
+D:\Dev Projects\BaseProject\BaseProject.Test\bin\Debug\netcoreapp2.1\BaseProject.Test.runtimeconfig.dev.json
+D:\Dev Projects\BaseProject\BaseProject.Test\bin\Debug\netcoreapp2.1\BaseProject.Test.dll
+D:\Dev Projects\BaseProject\BaseProject.Test\obj\Debug\netcoreapp2.1\BaseProject.Test.csprojAssemblyReference.cache
+D:\Dev Projects\BaseProject\BaseProject.Test\obj\Debug\netcoreapp2.1\BaseProject.Test.csproj.CoreCompileInputs.cache
+D:\Dev Projects\BaseProject\BaseProject.Test\obj\Debug\netcoreapp2.1\BaseProject.Test.AssemblyInfoInputs.cache
+D:\Dev Projects\BaseProject\BaseProject.Test\obj\Debug\netcoreapp2.1\BaseProject.Test.AssemblyInfo.cs
